@@ -2,7 +2,7 @@
   "name": "personal-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dongmingxin.github.io",
+  "homepage": "https://dongmingxin.github.io/personal-website/",
   "dependencies": {
     "-": "^0.0.1",
     "@emotion/react": "^11.9.0",
