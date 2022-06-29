@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.073c9b0a.css",
-    "main.js": "/personal-website/static/js/main.dd9b399b.js",
-    "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
-    "static/media/pizzaWebsite.PNG": "/personal-website/static/media/pizzaWebsite.830388d42630bd98ec8a.PNG",
-    "static/media/JR_dashboard.PNG": "/personal-website/static/media/JR_dashboard.8418929076d1610acab6.PNG",
-    "static/media/weatherApp.PNG": "/personal-website/static/media/weatherApp.2640bdb547ea84133dca.PNG",
-    "static/media/photo.png": "/personal-website/static/media/photo.c519e6aeb6a7db0e06ab.png",
-    "index.html": "/personal-website/index.html",
-    "main.073c9b0a.css.map": "/personal-website/static/css/main.073c9b0a.css.map",
-    "main.dd9b399b.js.map": "/personal-website/static/js/main.dd9b399b.js.map",
-    "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.8c7f6f5d.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/pizzaWebsite.PNG": "/static/media/pizzaWebsite.830388d42630bd98ec8a.PNG",
+    "static/media/JR_dashboard.PNG": "/static/media/JR_dashboard.8418929076d1610acab6.PNG",
+    "static/media/weatherApp.PNG": "/static/media/weatherApp.2640bdb547ea84133dca.PNG",
+    "static/media/photo.png": "/static/media/photo.c519e6aeb6a7db0e06ab.png",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.8c7f6f5d.js.map": "/static/js/main.8c7f6f5d.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.dd9b399b.js"
+    "static/js/main.8c7f6f5d.js"
   ]
 }
